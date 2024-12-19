@@ -1,0 +1,46 @@
+.bottom{
+    width: 100%;
+    background-color: #d7d7d755;
+}
+.di1 a{
+    font-size: 20px;
+    color: #5e5e5e;
+}
+.di1{
+    width: 1250px;
+    height: 100px;
+    margin: 0 auto; 
+     padding-top: 30px;
+    border-bottom: 1px solid #bdbdbd92;
+    position: relative;
+}
+.di1 a{
+    line-height: 100px;
+}   
+.ss2{
+    position: absolute;
+    width: 455px;
+    height: 60px;
+    right: 0;
+    bottom:20px;
+    font-size: 20px;
+}
+.di2{
+    width: 1250px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.dnr ul{
+    list-style: none;
+}
+.dnr{
+    width: 250px;
+}
+.dnr li{
+    margin-bottom: 27px;
+    
+}
+.dnr a{
+    color: #5e5e5e;
+}

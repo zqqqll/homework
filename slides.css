@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slides{
+    width: 100%;
+    height: 512px;
+    overflow: hidden;
+    position: relative;
+   
+}
+.slide{
+   display: flex;
+    width: 100%;
+}
+
+@keyframes slides {
+    0% {
+        transform: translateX(0);
+    }
+    33.33% {
+        transform: translateX(-100%);
+    }
+    66.66% {
+        transform: translateX(-200%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+.slide {
+    animation: slides 10s infinite;
+}
+.color{
+    position: relative;
+    background: linear-gradient(to top ,#22222259,transparent);
+    width: 100%;
+    height: 200px;
+    z-index:2;
+    top: -200px;
+}
+.tu1 img{ 
+    width: 100%;
+}

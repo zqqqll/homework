@@ -1,0 +1,135 @@
+ul{
+    list-style: none;
+}
+.referral{
+    margin-top: 80px;
+    width: 1250px;
+    margin: 80px auto;
+}
+.referral h1{
+    text-align: center;
+    font-size: 37px;
+    
+}
+.referral #bottom{
+    height: 2px;
+    width: 39px;
+    margin: 5px auto;
+    background-color: red;
+    margin-bottom: 80px;
+}
+.nr1{
+    display: flex;
+    margin-bottom: 40px;
+    
+}
+.r1{
+    width: 850px;
+    height: 380px;
+    overflow: hidden;
+    margin-right: 40px;
+}
+.r1 img{
+    width: 850px;
+    height: 380px;
+    transition: width 0.3s ease, height 0.3s ease;
+}
+.referral .cl1{
+    position: relative;
+    background: linear-gradient(to top ,#222222e0,transparent);
+    width: 100%;
+    height: 480px;
+    z-index:2;
+    top: -300px;
+    transition: transform 0.3s ease;   
+}
+.cl1:hover{
+    transform: translate(0px, -180px); 
+}
+.cl1 ul{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+.cl1 li{
+    color: #FFF;
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+.cl1 .lj{
+    margin-top: 80px;
+}
+.r1 img:hover{
+    width: 860px;
+    height: 385px;
+}
+.r2{
+    width: 380px;
+    height: 380px;
+    overflow: hidden;
+}
+
+.r2 img{
+    width: 380px;
+    height: 380px;
+}
+.nr2{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+.r3{
+    width: 380px;
+    height: 380px;
+    overflow: hidden;
+    margin-right: 40px;
+}
+.r3 img{
+    width: 380px;
+    height: 380px;
+    margin-right: 40px;
+}
+.r4{
+    width: 850px;
+    height: 380px;
+    overflow: hidden;
+}
+.r4 img{
+    width: 850px;
+    height: 380px;  
+}
+.nr3{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+.r5{
+    width: 380px;
+    height: 280px;
+    overflow: hidden;
+    margin-right: 40px;
+}
+.r5 img{
+    width: 380px;
+    height: 280px;  
+}
+.r6{
+    width: 405px;
+    height: 280px;
+    overflow: hidden;
+    margin-right: 40px;
+}
+.r6 img{
+    width: 405px;
+    height: 280px;
+}
+.r7{
+    width: 405px;
+    height: 280px;
+    overflow: hidden;
+}
+.r7 img{
+    width: 405px;
+    height: 280px;
+}
+

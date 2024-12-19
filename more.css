@@ -1,0 +1,21 @@
+.more{
+    width: 500px;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+.moreat{
+    width: 200px;
+    height: 40px;
+    border: 1px solid #000;
+    margin-right: 50px;
+    text-align: center;
+    line-height: 40px;
+}
+.morenews{
+    width: 200px;
+    height: 40px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 40px;
+}

@@ -1,0 +1,130 @@
+.news{
+    margin-top: 80px;
+    width: 1250px;
+    margin: 80px auto;
+}
+.news h1{
+    text-align: center;
+    font-size: 37px;
+}
+.news #bottom2{
+    height: 2px;
+    width: 39px;
+    margin: 5px auto;
+    background-color: red;
+    margin-bottom: 80px;
+}
+.new{
+    display: flex;
+}
+.news1{
+    margin-right: 41px;
+    background-color: #F8F8F8;
+    height: 550px;
+    position: relative;
+}
+.news1 img{
+    width: 396px;
+    height: 250px;
+    margin-bottom: 15px
+}
+.zhhd{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 40px;
+    background-color: #62626292;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+.news1 h3{
+
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.newsnr{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.newsnr p{
+    font-size: 17px;
+    margin-bottom: 5px;
+    color: #5e5e5e;
+}
+
+.news2{
+    margin-right: 41px;
+    height: 550px;
+    background-color: #F8F8F8;
+    position: relative;
+}
+.news2 img{
+    width: 396px;
+    height: 250px;
+    margin-bottom: 10px;
+}
+.newsnr2{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.newsnr2 h3{
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.newsnr2 #time1{
+    margin-bottom: 20px;
+}
+.newsnr2 p{
+    font-size: 18px;
+    margin-bottom: 5px;
+    line-height: 28px;
+    color: #5e5e5e;
+}
+.xw{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 80px;
+    height: 40px;
+    background-color: #62626292;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+.news3{
+    width: 396px;
+    height: 550px;
+    background-color: #F8F8F8;
+    position: relative;
+}
+.xw2{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 80px;
+    height: 40px;
+    background-color: #62626292;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+.newsnr3{
+    height: 500px;
+    width:300px;
+    margin-top: 50px;
+    margin-left: 40px;
+    overflow: auto;  /* 内容溢出时自动显示滚动条*/ 
+}
+.newsnr3 h3{
+    margin-bottom: 15px;
+    font-size: 20px;
+    line-height: 28px;
+}
+.newsnr3 p{
+    font-size: 18px;
+    margin-bottom: 5px;
+    line-height: 28px;
+    color: #5e5e5e;
+}
